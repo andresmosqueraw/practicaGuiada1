@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">practicaGuiada1</string>
+    <string name="calculation_title">Cálculo de Intereses</string>
+    <string name="amount_hint">Cantidad de dinero</string>
+    <string name="interest_rate_hint">Tasa de Interés</string>
+    <string name="days_label">Días</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="clear_button">Limpiar</string>
+    <string name="print_button">Imprimir</string>
+    <string name="total_payment_result">Pago total: </string>
+
+    <string name="amount">Cantidad:</string>
+    <string name="interest_rate">Interés:</string>
+    <string name="days">Dias:</string>
+    <string name="result">El monto total con intereses es:</string>
+    <string name="back_button">Volver</string>
+</resources>
